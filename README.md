@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **my own website**
 
-- 🌱 I’m currently learning **MERN and Java**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **edacansu2020@gmail.com**
 
