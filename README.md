@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **edacansu2020@gmail.com**
 
